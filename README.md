@@ -13,6 +13,7 @@ Everything — data loading, training, and inference — lives in a single noteb
 ## Results
 
 - **Validation accuracy:** ~0.78 on a held-out set (~1 image per class)
+- **Kaggle accuracy**: ~0.76 on leaderboard, about position 27
   
 ---
 
